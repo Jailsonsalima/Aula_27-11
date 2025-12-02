@@ -4,5 +4,3 @@ este é meu novo arquivo
 Atualizando meu código com mais uma linha
 
 * Exemplificando a edição de código através da pasta local
-
- Exemplificando a edição de código através da pasta local
