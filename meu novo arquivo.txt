@@ -7,3 +7,4 @@ Atualizando meu código com mais uma linha
 
 criei nova linha no Git Hub
 Alguém editou o arquivo
+outra linha
