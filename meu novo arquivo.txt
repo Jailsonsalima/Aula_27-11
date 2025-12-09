@@ -6,3 +6,4 @@ Atualizando meu código com mais uma linha
 * Exemplificando a edição de código através da pasta local
 
 criei nova linha no Git Hub
+Alguém editou o arquivo
